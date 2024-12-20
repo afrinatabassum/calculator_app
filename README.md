@@ -1,2 +1,2 @@
 # calculator_app
-It's a Flitter application
+It's a Flutter application
